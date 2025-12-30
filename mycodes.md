@@ -1,6 +1,3 @@
-# myfirst-repo
-just figuring out
-hehehe
 # second step
     i cloned my repo to vs code and modified.
 
@@ -14,3 +11,6 @@ hehehe
         git add index.html ( to specificly add)
         git commin -m "m is message and we have ti put some message for        modification" 
                     -m "second m for description of the modification"
+
+                (this wont update or make it live the repo in github)
+        git push (this will update in gihub too)
