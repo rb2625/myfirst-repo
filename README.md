@@ -1,6 +1,6 @@
 # myfirst-repo
 just figuring out
-hehehe
+HA HA HA
 # second step
     i cloned my repo to vs code and modified.
 
